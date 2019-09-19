@@ -1,0 +1,5 @@
+A = int(input("Dame un numero entero:"))
+B = int(input("Dame otro numero entero:"))
+C = int(input("Necesito un numero entero:"))
+D = int(input("Falta un numero entero:"))
+print(f"{ D }, { C }, { B }, { A }")
